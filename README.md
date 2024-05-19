@@ -54,4 +54,5 @@ THE 餅つきはのシステム構築にはUnityを用いました。
 このリポジトリ上にあるフォルダのうち、StartSceneにはスタート画面に関するソースコード、PlaySceneにはプレイ画面に関するソースコード、ResultSceneにはリザルト画面に関するソースコードが入っています。
 
 ### スタート画面
+<img alt="Start" src="https://github.com/Take-Kai/TheMochitsuki/assets/169955027/88e619be-0135-4b37-9d5b-0ed0930dc20a" width="300">
 
