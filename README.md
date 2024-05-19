@@ -6,7 +6,7 @@ THE 餅つきは、小学生を対象とした餅つき体験ゲームです。
 4人で協力して制作しましたが、私はUnityでのシステム構築とArduinoとUnityのシリアル通信のプログラム作成を担当しました。
 
 
-## ハードウェアに関して
+## ハードウェアについて
 THE 餅つきでは、実際の餅つきと同じ動作で体験できるように、ピコピコハンマーで作った杵とダンボールで作った臼を使用します。
 
 　　　<img src="https://github.com/Take-Kai/TheMochitsuki/assets/169955027/dbebed15-702d-4dd0-ac5d-fc1c5b6c9fd5" width="100">　　　　　　　　　　　<img src="https://github.com/Take-Kai/TheMochitsuki/assets/169955027/cb90d316-6fca-4d89-b8cc-3be6fd3a3ff8" width="200">
@@ -44,3 +44,14 @@ THE 餅つきでは、実際の餅つきと同じ動作で体験できるよう�
 <img src="https://github.com/Take-Kai/TheMochitsuki/assets/169955027/a75f9cda-ed4a-46fa-9149-1ada19dbbb71" width="200">
 
 使用したArduinoマイコン
+
+
+## ソフトウェアについて
+THE 餅つきはのシステム構築にはUnityを用いました。
+
+スタート画面、プレイ画面、リザルト画面の3つに分けてそれぞれのシーンでプログラムを分けています。
+
+このリポジトリ上にあるフォルダのうち、StartSceneにはスタート画面に関するソースコード、PlaySceneにはプレイ画面に関するソースコード、ResultSceneにはリザルト画面に関するソースコードが入っています。
+
+### スタート画面
+
