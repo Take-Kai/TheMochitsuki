@@ -42,5 +42,5 @@ THE 餅つきでは、実際の餅つきと同じ動作で体験できるよう�
 この小さなスペースは臼側面からすぐに確認できるようになっており、配線のチェックなどを簡単に行うことができます。
 
 <img src="https://github.com/Take-Kai/TheMochitsuki/assets/169955027/a75f9cda-ed4a-46fa-9149-1ada19dbbb71" width="200">
-使用したArduinoマイコン
 
+使用したArduinoマイコン
