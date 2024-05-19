@@ -38,6 +38,7 @@ THE 餅つきでは、実際の餅つきと同じ動作で体験できるよう�
 臼の内部には小さなスペースが設けられており、そこにはArduinoマイコンが格納されています。
 
 <img src="https://github.com/Take-Kai/TheMochitsuki/assets/169955027/a75f9cda-ed4a-46fa-9149-1ada19dbbb71" width="200">
+使用したArduinoマイコン
 
 
 臼表面についているボタンと杵の内部に取り付けられた小さなボタンはArduinoに接続されており、このArduinoからUnityにデータ送信をしています。
