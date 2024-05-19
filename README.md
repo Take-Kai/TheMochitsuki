@@ -79,8 +79,7 @@ THE 餅つきはのシステム構築にはUnityを用いました。
 
 
 ### リザルト画面
-
-
+<img alt="result" src="https://github.com/Take-Kai/TheMochitsuki/assets/169955027/4ddef422-b40c-4bfe-b020-6674c19d230e" width="500">
 
 リザルト画面に遷移すると、何回餅をつくことができたのかを表示されています。
 
